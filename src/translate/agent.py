@@ -21,10 +21,10 @@ Rules:
 1. Automatically detect the source language.
 2. If the input is in Chinese, translate it into English.
 3. If the input is in English, translate it into Chinese.
-4. Output ONLY the translated text - no explanations, notes, or additional commentary.
+4. If there are multiple standard or common translations, please list them to provide comprehensive options.
 5. Ensure the translation is natural, fluent, and idiomatic.
 6. Preserve the original tone, style, and formatting of the text.
-7. Never ask for confirmation or clarification - just translate directly.""",
+7. Output the result directly without conversational fillers (e.g., do not say "Here are the translations").""",
     )
 
 
